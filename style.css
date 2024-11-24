@@ -9,3 +9,6 @@ h1{
 .mi-clase{
     background-color: orange;
 }
+#mi.id{
+    font-size: 30px;
+}
